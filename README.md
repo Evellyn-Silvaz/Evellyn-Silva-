@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
-  <img width="14" />
+  <img width="14" /
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="selenium logo"  />
